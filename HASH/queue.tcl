@@ -28,3 +28,9 @@ puts "after pushing: $L"
 pop L
 puts "after popping:  $L" 
 
+# Popping a priority queue requires sorting out which item has highest priority. 
+ proc pqpop name {
+    upvar 1 $name queue
+    set queue [lsort -real -index 1 $queue]
+    qpop queue ;# fall back to standard queue, now that it's sorted
+ }
