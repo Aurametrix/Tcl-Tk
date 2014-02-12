@@ -1,6 +1,7 @@
 package require Tcl 8.5
 
-# actually built-in lsort command uses the mergesort algorithm 
+# simple implementation of comparison-based sorting algorithm, not stable 
+# actually built-in heapsort command uses the heapsort algorithm 
 
 proc heapsort {list {count ""}} {
     if {$count eq ""} {
