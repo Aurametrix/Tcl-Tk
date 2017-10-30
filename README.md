@@ -18,15 +18,22 @@ to check the verson:
 echo 'puts [info patchlevel];exit 0' | tclsh
 
 or
-$ tclsh
-% puts $tcl_version
-% info patchlevel
+    $ tclsh
+    % puts $tcl_version
+    % info patchlevel
 
 Installing packages
 
 tclsh
-% puts $auto_path
+    % puts $auto_path
 Then add the path to the directory which contains the pkgIndex.tcl
 
 for VTK:
 set auto_path "$auto_path /xxxxxx/lib/vtk-5.2"
+
+
++ [advantages of Tcl over Lisp](https://wiki.tcl.tk/13410)
+
++[praising Tcl](http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
+
++[AOL server](https://github.com/aolserver)
