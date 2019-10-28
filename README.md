@@ -34,6 +34,8 @@ set auto_path "$auto_path /xxxxxx/lib/vtk-5.2"
 
 + [advantages of Tcl over Lisp](https://wiki.tcl.tk/13410)
 
-+[praising Tcl](http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
++ [praising Tcl](http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 
-+[AOL server](https://github.com/aolserver)
++ [AOL server](https://github.com/aolserver)
+
++ [Everything is a string](https://wiki.tcl-lang.org/page/everything+is+a+string)
