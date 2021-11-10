@@ -41,6 +41,7 @@ set auto_path "$auto_path /xxxxxx/lib/vtk-5.2"
 
 + [History of Tcl](https://web.stanford.edu/~ouster/cgi-bin/tclHistory.php)
 + [Who says Tcl rules?](https://wiki.tcl-lang.org/page/Who+says+Tcl+rules...?V=56)
++ [Why is Tcl Syntax so weird?](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
 
 + [Everything is a string](https://wiki.tcl-lang.org/page/everything+is+a+string)
 
