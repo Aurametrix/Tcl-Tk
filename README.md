@@ -45,10 +45,11 @@ set auto_path "$auto_path /xxxxxx/lib/vtk-5.2"
 + [Why is Tcl Syntax so weird?](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
 
 + [Everything is a string](https://wiki.tcl-lang.org/page/everything+is+a+string)
++ [ Tcl/Tk 9.0.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new) - Sep 26, 2024
 
 + [Tcl the Misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 + [Praising Tcl](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 + [Tcl repo](https://gitlab.com/cznic/tcl)
 
-[AC3D)](http://www.inivis.com/) - a 3D mesh editor that uses Tcl/Tk for the UI
+[AC3D](http://www.inivis.com/) - a 3D mesh editor that uses Tcl/Tk for the UI
 
